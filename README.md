@@ -1,11 +1,27 @@
-Hello, I am Mohd Saiful Islam. A Data Science Enthusiast.
+👋 Hi, I'm Mohd Saiful Islam
+🎯 Data Analyst | BI Analyst Enthusiast
 
-🔭 I’m currently studying an MSc in Applied Mathematics for Network & Data Science at Hochschule Mittweida
+I’m passionate about turning raw data into actionable insights. With a strong foundation in Power BI, SQL, Python, and Excel, I specialize in crafting analytical dashboards, optimizing data pipelines, and supporting business decision-making through data-driven storytelling.
 
-🌱 I’m currently learning Data Analysis, Data Science, Machine Learning, Artificial Intelligence,
+🚀 My Skills
 
-👯 I’m looking to collaborate on a Remote Job with any Multinational Company.
+• Languages: Python, SQL
 
-📫 How to reach me: saifulmath58@gmail.com
+•	Data Visualization: Power BI, Excel, Matplotlib, Seaborn
 
+•	Database: MySQL, PostgreSQL
+
+• Concepts: A/B Testing, Customer Segmentation, Root Cause Analysis, Regressions, Smart Contract Vulnerability Detection with LLMs
+
+📫 How to Reach Me
+
+📧 Email: saifulmath58@gmail.com
+
+📞 Phone: +49 1575 3622101
+                          
 📫[ Portfolio](https://sites.google.com/view/saifulmath)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/mohdsaifulislam)
+
+📌 Let's Collaborate
+I'm open to freelance projects, collaborations, and full-time roles where I can help businesses make smarter decisions with data.
