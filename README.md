@@ -6,8 +6,6 @@ Hello, I am Mohd Saiful Islam. A Data Science Enthusiast
 
 👯 I’m looking to collaborate on a Remote Job with any Multinational Company.
 
-👨‍💻 All of my Data Analysis projects are available at 
-
 📫 How to reach me: saifulmath58@gmail.com
 
 📫[ Portfolio](https://sites.google.com/view/saifulmath)
