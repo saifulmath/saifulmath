@@ -21,7 +21,7 @@ I’m passionate about turning raw data into actionable insights. With a strong 
                           
 📫[ Portfolio](https://sites.google.com/view/saifulmath)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/mohdsaifulislam)
+🌐 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/mohdsaifulislam)
 
 📌 Let's Collaborate
 I'm open to freelance projects, collaborations, and full-time roles where I can help businesses make smarter decisions with data.
