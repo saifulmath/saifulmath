@@ -1,4 +1,4 @@
-Hello, I am Mohd Saiful Islam. A Data Science Enthusiast
+Hello, I am Mohd Saiful Islam. A Data Science Enthusiast.
 
 🔭 I’m currently studying an MSc in Applied Mathematics for Network & Data Science at Hochschule Mittweida
 
