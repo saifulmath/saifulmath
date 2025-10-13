@@ -7,11 +7,15 @@ I’m passionate about turning raw data into actionable insights. With a strong 
 
 • Languages: Python, SQL
 
-•	Data Visualization: Power BI, Excel, Matplotlib, Seaborn
+•	Data Visualization: Power BI, Excel, Google Sheets, Matplotlib, Seaborn
 
-•	Database: MySQL, PostgreSQL
+•	Database: MySQL, PostgreSQL, Supabase
 
-• Concepts: A/B Testing, Customer Segmentation, Root Cause Analysis, Regressions, Smart Contract Vulnerability Detection with LLMs
+• Data Warehouse: Google BigQuery 
+
+• AI & Machine Learning: Large Language Models
+
+• Concepts: Hypothesis Testing, A/B Testing, Customer Segmentation, Root Cause Analysis, Regressions, Smart Contract Vulnerability Detection with LLMs
 
 📫 How to Reach Me
 
