@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines= Data+Analytics+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -23,17 +23,6 @@ When I'm not working with data, I enjoy traveling, visiting natural sights, and 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -43,9 +32,9 @@ When I'm not working with data, I enjoy traveling, visiting natural sights, and 
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Google%20Sheets-Intermediate-E97627?style=flat&logo=Google Sheets&logoColor=white" alt="Google Sheets Skill Badge">
-  <img src="https://img.shields.io/badge/Matplotlib-Advanced-E97627?style=flat&logo=Matplotlib&logoColor=white" alt="Matplotlib Skill Badge">
-  <img src="https://img.shields.io/badge/Seraborn-Advanced-E97627?style=flat&logo=Seaborn&logoColor=white" alt="Seaborn Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20Sheets-Intermediate-E97627?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets Skill Badge">
+  <img src="https://img.shields.io/badge/Matplotlib-Advanced-E97627?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib Skill Badge">
+  <img src="https://img.shields.io/badge/Seraborn-Advanced-E97627?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Skill Badge">
 </p>
 
 #### Programming languages & Automation
@@ -128,34 +117,3 @@ When I'm not working with data, I enjoy traveling, visiting natural sights, and 
 
 
 
-👋 Hi, I'm Mohd Saiful Islam
-🎯 Data Analyst | BI Analyst Enthusiast
-
-I’m passionate about turning raw data into actionable insights. With a strong foundation in Power BI, SQL, Python, and Excel, I specialize in crafting analytical dashboards, optimizing data pipelines, and supporting business decision-making through data-driven storytelling.
-
-🚀 My Skills
-
-• Languages: Python, SQL
-
-•	Data Visualization: Power BI, Excel, Google Sheets, Matplotlib, Seaborn
-
-•	Database: MySQL, PostgreSQL, Supabase
-
-• Data Warehouse: Google BigQuery 
-
-• AI & Machine Learning: Large Language Models
-
-• Concepts: Hypothesis Testing, A/B Testing, Customer Segmentation, Root Cause Analysis, Regressions, Smart Contract Vulnerability Detection with LLMs
-
-📫 How to Reach Me
-
-📧 Email: saifulmath58@gmail.com
-
-📞 Phone: +49 1575 3622101
-                          
-📫[Portfolio](https://sites.google.com/view/saifulmath)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/mohdsaifulislam)
-
-📌 Let's Collaborate
-I'm open to freelance projects, collaborations, and full-time roles where I can help businesses make smarter decisions with data.
